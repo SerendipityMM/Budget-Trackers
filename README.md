@@ -14,14 +14,16 @@ Offline Functionality:
 - When brought back online:
 
 Offline entries should be added to tracker.
-
-Heroku ![Budget-Tracker] (https://budgetapp02.herokuapp.com/)
+Heroku:
+https://budgetapp02.herokuapp.com/
 
 ## Output 
 
 Online:
+
 ![1](https://user-images.githubusercontent.com/55516592/83201626-22db6980-a103-11ea-9346-5c58a640ebbd.png)
 
 
 Offline:
+
 ![Screen Shot 2020-05-28 at 4 47 36 PM](https://user-images.githubusercontent.com/55516592/83201654-3555a300-a103-11ea-840d-c843f65fb23c.png)
